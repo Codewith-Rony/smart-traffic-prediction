@@ -71,7 +71,7 @@ smart-traffic-flow-prediction/
 
 ### Streamlit User Interface
 
-![UI](UI.png)
+![UI](application_ui.png)
 
 
 ---
